@@ -1,6 +1,6 @@
 # HARE
 
-## Curso Netacad - Montagem do computador
+## Curso Netacad - Hardware and Software
 
 ### Capítulo 2
 
