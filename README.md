@@ -1,6 +1,11 @@
 # HARE
 
 ## Curso Netacad - Montagem do computador
+
+### Capítulo 2
+
+---------------------------------------------------
+
 * Para colocar a fonte de alimentação:
     * I. Abrir a caixa do computador
     * II. Alinhar os orifícios dos parafusos na fonte de alimentação com as montagens do computador.
@@ -19,3 +24,7 @@
 * Placa Mãe: 
     * Pensar em uma placa com 2 slots PCI express;
     * Levar em consideração o processador.
+
+---------------------------------------------------
+
+### Capítulo 3
