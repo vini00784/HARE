@@ -55,4 +55,4 @@
     * Tensão (Volts) - É a medida do trabalho necessária para deslocar uma carga de um local para outro
     * Resistência (Ohms)
     * Corrente (Amperes)
-    * Potência (Watts) A
+    * Potência (Watts)
