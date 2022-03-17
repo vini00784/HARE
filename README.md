@@ -4,7 +4,7 @@
 
 ### Capítulo 2 - Montagem do PC
 
-* É bom ter um extintor de inc�ndio por perto, mas nunca um extintor de �gua, pois obviamente v�o danificar os componentes.
+* É bom ter um extintor de incêndio por perto, mas nunca um extintor de água, pois obviamente vão danificar os componentes.
 
 ---------------------------------------------------
 
@@ -14,60 +14,60 @@
     * III. Aparafusar a fonte de alimentação no lugar.
 
 * Gabinete:
-    * O gabinete � escolhido levando em consideração a placa-m�e
+    * O gabinete é escolhido levando em consideração a placa-mãe
 
 * Ventoinhas: 
-    * Componente muito importante, que ajuda o interior do gabinete a n�o superaquecer.
-    * A direção do fluxo de ar criado por todos os ventiladores no gabinete deve trabalhar em conjunto para injetar ar mais frio e expulsar o ar mais quente. A instalação de uma ventoinha ao contr�rio ou o uso de ventoinhas de tamanho ou velocidade incorreta para o gabinete pode fazer com que os fluxos de ar se anulem.
+    * Componente muito importante, que ajuda o interior do gabinete a não superaquecer.
+    * A direção do fluxo de ar criado por todos os ventiladores no gabinete deve trabalhar em conjunto para injetar ar mais frio e expulsar o ar mais quente. A instalação de uma ventoinha ao contrário ou o uso de ventoinhas de tamanho ou velocidade incorreta para o gabinete pode fazer com que os fluxos de ar se anulem.
 
 * Fonte:
-    * Pega a corrente da tomada (alternada) e converte em uma corrente cont�nua. Al�m de abaixar a tens�o, para 3,3V, 5V ou 12V.
+    * Pega a corrente da tomada (alternada) e converte em uma corrente contínua. Além de abaixar a tensão, para 3,3V, 5V ou 12V.
 
 * Instalação do processador:
-    * Pasta t�rmica: melhorar a dissipação de calor entre o processador e o cooler, depois de algum tempo a pasta seca e acaba virando uma barreira/pel�cula.
+    * Pasta térmica: melhorar a dissipação de calor entre o processador e o cooler, depois de algum tempo a pasta seca e acaba virando uma barreira/película.
 
-* Placa M�e: 
+* Placa Mãe: 
     * Pensar em uma placa com 2 slots PCI express;
     * Levar em consideração o processador.
 
 ---------------------------------------------------
 
-### Cap�tulo 3 - Hardware avan�ado de computador
+### Capítulo 3 - Hardware avan�ado de computador
 
 ---------------------------------------------------
 
 * CMOS:
-    * Todas as placas m�e precisam da BIOS para operar. E a BIOS � um programa armazenado no chip de mem�ria ROM (CMOS) da placa m�e que cont�m um pequeno programa.
-    * A bateria do CMOS serve para manter as configurações do computador mesmo ele estando desligado. � preciso troc�-la quando se tiver perdendo confingurações ao inicializá-lo.
+    * Todas as placas mãe precisam da BIOS para operar. E a BIOS é um programa armazenado no chip de memória ROM (CMOS) da placa mãe que contém um pequeno programa.
+    * A bateria do CMOS serve para manter as configurações do computador mesmo ele estando desligado. É preciso trocá-la quando se tiver perdendo confingurações ao inicializá-lo.
     * POST:
-        * Durante o POST, a BIOS executa uma verificação de hardware nos componentes principais para verificar se o hardware do computador est� funcionando corretamente.
+        * Durante o POST, a BIOS executa uma verificação de hardware nos componentes principais para verificar se o hardware do computador está funcionando corretamente.
     * UEFI:
-        * A UEFI define as mesmas configurações que a BIOS tradicional, mas tamb�m disponibiliza opções adicionais. Por exemplo, a UEFI pode fornecer uma interface de software habilitada para mouse em vez das telas tradicionais do BIOS.
-    * � poss�vel fazer algumas configurações de seguran�a para a BIOS, como senhas, criptografia e etc.
+        * A UEFI define as mesmas configurações que a BIOS tradicional, mas também disponibiliza opções adicionais. Por exemplo, a UEFI pode fornecer uma interface de software habilitada para mouse em vez das telas tradicionais do BIOS.
+    * É possível fazer algumas configurações de segurança para a BIOS, como senhas, criptografia e etc.
 
 ---------------------------------------------------
 
-* Na hora de comprar uma placa m�e e um processador, � preciso ver se a BIOS da placa m�e � compat�vel com o processador, sen�o um n�o reconhece o outro.
+* Na hora de comprar uma placa mãe e um processador, é preciso ver se a BIOS da placa mãe é compatível com o processador, senão um não reconhece o outro.
 
 ---------------------------------------------------
 
-* Pot�ncia e tens�o:
-    * Tens�o (Volts) - � a medida do trabalho necess�ria para deslocar uma carga de um local para outro
-    * Resist�ncia (Ohms)
+* Potência e tensão:
+    * Tensão (Volts) - é a medida do trabalho necessária para deslocar uma carga de um local para outro
+    * Resistência (Ohms)
     * Corrente (Amperes)
-    * Pot�ncia (Watts)
+    * Potência (Watts)
 
 ---------------------------------------------------
 
-Cap�tulo 4 - Manutenção preventiva e solução de problemas
+Capítulo 4 - Manutenção preventiva e solução de problemas
 
 ---------------------------------------------------
 
 ### Manutenção preventiva
-Localização ou ambiente do computador - Ambientes empoeirados, como canteiros de obras, requerem mais atenção do que um ambiente de escrit�rio.
-Uso do computador - redes de tr�fego intenso, como a rede de uma escola, podem exigir varreduras e remoção adicionais de softwares mal-intencionados e arquivos indesej�veis.
-	* Reduz poss�veis problemas de hardware e software, tempo de inatividade do computador, custos de reparo e o n�mero de falhas no equipamento;
-	* Melhora a proteção de dados, a vida �til e a estabilidade do equipamento e economiza dinheiro.
+Localização ou ambiente do computador - Ambientes empoeirados, como canteiros de obras, requerem mais atenção do que um ambiente de escritório.
+Uso do computador - redes de tráfego intenso, como a rede de uma escola, podem exigir varreduras e remoção adicionais de softwares mal-intencionados e arquivos indesej�veis.
+	* Reduz possíveis problemas de hardware e software, tempo de inatividade do computador, custos de reparo e o número de falhas no equipamento;
+	* Melhora a proteção de dados, a vida útil e a estabilidade do equipamento e economiza dinheiro.
 
 ---------------------------------------------------
 
