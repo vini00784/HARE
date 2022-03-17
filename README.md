@@ -32,7 +32,7 @@
 
 ---------------------------------------------------
 
-### Capítulo 3 - Hardware avançaado de computador
+### Capítulo 3 - Hardware avançado de computador
 
 ---------------------------------------------------
 
