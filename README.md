@@ -32,7 +32,7 @@
 
 ---------------------------------------------------
 
-### Capítulo 3 - Hardware avan�ado de computador
+### Capítulo 3 - Hardware avançaado de computador
 
 ---------------------------------------------------
 
@@ -59,13 +59,13 @@
 
 ---------------------------------------------------
 
-Capítulo 4 - Manutenção preventiva e solução de problemas
+### Capítulo 4 - Manutenção preventiva e solução de problemas
 
 ---------------------------------------------------
 
 ### Manutenção preventiva
 Localização ou ambiente do computador - Ambientes empoeirados, como canteiros de obras, requerem mais atenção do que um ambiente de escritório.
-Uso do computador - redes de tráfego intenso, como a rede de uma escola, podem exigir varreduras e remoção adicionais de softwares mal-intencionados e arquivos indesej�veis.
+Uso do computador - redes de tráfego intenso, como a rede de uma escola, podem exigir varreduras e remoção adicionais de softwares mal-intencionados e arquivos indesejáveis.
 	* Reduz possíveis problemas de hardware e software, tempo de inatividade do computador, custos de reparo e o número de falhas no equipamento;
 	* Melhora a proteção de dados, a vida útil e a estabilidade do equipamento e economiza dinheiro.
 
