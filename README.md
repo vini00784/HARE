@@ -97,4 +97,19 @@ Componentes que merecem uma atenção a mais em relação à poeira:
 ---------------------------------------------------
 
 #### Preocupações ambientais
-Instruções a se seguir para
+Instruções a se seguir para garantir o desempenho operacional do PC:
+* Não obstrua ventoinhas ou o fluxo de ar a componentes internos;
+* Mantenha a temperatura ambiente entre 45 e 90 graus Fahrenheit (7 a 32 graus Celsius);
+* Mantenha o nível de umidade entre 10% e 80%;
+* As recomendações de temperatura e umidade variam de acordo com o fabricante do computador. Pesquise os valores recomendados para computadores usados em condições extremas.
+
+---------------------------------------------------
+
+#### Software
+Os softwares devem sempre se manter atualizados, até mesmo por questões de segurança, desempenho e outros aspectos.
+
+---------------------------------------------------
+
+### Solução de problemas
+* `` Backup ``:
+    * O backup de dados é uma cópia dos dados do disco rígido de um computador salva em outro dispositivo de armazenamento ou armazenamento em nuvem. O armazenamento em nuvem é um armazenamento on-line acessado pela Internet. Em uma empresa, os backups podem ser realizados de forma diária, semanal ou mensal.
