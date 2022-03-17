@@ -97,4 +97,4 @@ Componentes que merecem uma atenção a mais em relação à poeira:
 ---------------------------------------------------
 
 #### Preocupações ambientais
-Instruções a se
+Instruções a se seguir para
