@@ -2,57 +2,99 @@
 
 ## Curso Netacad - Hardware and Software
 
-### Capítulo 2 - Montagem do PC
+### CapÃ­tulo 2 - Montagem do PC
 
-* É bom ter um extintor de incêndio por perto, mas nunca um extintor de água, pois obviamente vão danificar os componentes.
+* Ã‰ bom ter um extintor de incï¿½ndio por perto, mas nunca um extintor de ï¿½gua, pois obviamente vï¿½o danificar os componentes.
 
 ---------------------------------------------------
 
-* Para colocar a fonte de alimentação:
+* Para colocar a fonte de alimentaÃ§Ã£o:
     * I. Abrir a caixa do computador
-    * II. Alinhar os orifícios dos parafusos na fonte de alimentação com as montagens do computador.
-    * III. Aparafusar a fonte de alimentação no lugar.
+    * II. Alinhar os orifÃ­cios dos parafusos na fonte de alimentaÃ§Ã£o com as montagens do computador.
+    * III. Aparafusar a fonte de alimentaÃ§Ã£o no lugar.
 
 * Gabinete:
-    * O gabinete é escolhido levando em consideração a placa-mãe
+    * O gabinete ï¿½ escolhido levando em consideraÃ§Ã£o a placa-mï¿½e
 
 * Ventoinhas: 
-    * Componente muito importante, que ajuda o interior do gabinete a não superaquecer.
-    * A direção do fluxo de ar criado por todos os ventiladores no gabinete deve trabalhar em conjunto para injetar ar mais frio e expulsar o ar mais quente. A instalação de uma ventoinha ao contrário ou o uso de ventoinhas de tamanho ou velocidade incorreta para o gabinete pode fazer com que os fluxos de ar se anulem.
+    * Componente muito importante, que ajuda o interior do gabinete a nï¿½o superaquecer.
+    * A direÃ§Ã£o do fluxo de ar criado por todos os ventiladores no gabinete deve trabalhar em conjunto para injetar ar mais frio e expulsar o ar mais quente. A instalaÃ§Ã£o de uma ventoinha ao contrï¿½rio ou o uso de ventoinhas de tamanho ou velocidade incorreta para o gabinete pode fazer com que os fluxos de ar se anulem.
 
 * Fonte:
-    * Pega a corrente da tomada (alternada) e converte em uma corrente contínua. Além de abaixar a tensão, para 3,3V, 5V ou 12V.
+    * Pega a corrente da tomada (alternada) e converte em uma corrente contï¿½nua. Alï¿½m de abaixar a tensï¿½o, para 3,3V, 5V ou 12V.
 
-* Instalação do processador:
-    * Pasta térmica: melhorar a dissipação de calor entre o processador e o cooler, depois de algum tempo a pasta seca e acaba virando uma barreira/película.
+* InstalaÃ§Ã£o do processador:
+    * Pasta tï¿½rmica: melhorar a dissipaÃ§Ã£o de calor entre o processador e o cooler, depois de algum tempo a pasta seca e acaba virando uma barreira/pelï¿½cula.
 
-* Placa Mãe: 
+* Placa Mï¿½e: 
     * Pensar em uma placa com 2 slots PCI express;
-    * Levar em consideração o processador.
+    * Levar em consideraÃ§Ã£o o processador.
 
 ---------------------------------------------------
 
-### Capítulo 3 - Hardware avançado de computador
+### Capï¿½tulo 3 - Hardware avanï¿½ado de computador
 
 ---------------------------------------------------
 
 * CMOS:
-    * Todas as placas mãe precisam da BIOS para operar. E a BIOS é um programa armazenado no chip de memória ROM (CMOS) da placa mãe que contém um pequeno programa.
-    * A bateria do CMOS serve para manter as configurações do computador mesmo ele estando desligado. É preciso trocá-la quando se tiver perdendo confingurações ao inicializá-lo.
+    * Todas as placas mï¿½e precisam da BIOS para operar. E a BIOS ï¿½ um programa armazenado no chip de memï¿½ria ROM (CMOS) da placa mï¿½e que contï¿½m um pequeno programa.
+    * A bateria do CMOS serve para manter as configuraÃ§Ãµes do computador mesmo ele estando desligado. ï¿½ preciso trocï¿½-la quando se tiver perdendo confinguraÃ§Ãµes ao inicializÃ¡-lo.
     * POST:
-        * Durante o POST, a BIOS executa uma verificação de hardware nos componentes principais para verificar se o hardware do computador está funcionando corretamente.
+        * Durante o POST, a BIOS executa uma verificaÃ§Ã£o de hardware nos componentes principais para verificar se o hardware do computador estï¿½ funcionando corretamente.
     * UEFI:
-        * A UEFI define as mesmas configurações que a BIOS tradicional, mas também disponibiliza opções adicionais. Por exemplo, a UEFI pode fornecer uma interface de software habilitada para mouse em vez das telas tradicionais do BIOS.
-    * É possível fazer algumas configurações de segurança para a BIOS, como senhas, criptografia e etc.
+        * A UEFI define as mesmas configuraÃ§Ãµes que a BIOS tradicional, mas tambï¿½m disponibiliza opÃ§Ãµes adicionais. Por exemplo, a UEFI pode fornecer uma interface de software habilitada para mouse em vez das telas tradicionais do BIOS.
+    * ï¿½ possï¿½vel fazer algumas configuraÃ§Ãµes de seguranï¿½a para a BIOS, como senhas, criptografia e etc.
 
 ---------------------------------------------------
 
-* Na hora de comprar uma placa mãe e um processador, é preciso ver se a BIOS da placa mãe é compatível com o processador, senão um não reconhece o outro.
+* Na hora de comprar uma placa mï¿½e e um processador, ï¿½ preciso ver se a BIOS da placa mï¿½e ï¿½ compatï¿½vel com o processador, senï¿½o um nï¿½o reconhece o outro.
 
 ---------------------------------------------------
 
-* Potência e tensão:
-    * Tensão (Volts) - É a medida do trabalho necessária para deslocar uma carga de um local para outro
-    * Resistência (Ohms)
+* Potï¿½ncia e tensï¿½o:
+    * Tensï¿½o (Volts) - ï¿½ a medida do trabalho necessï¿½ria para deslocar uma carga de um local para outro
+    * Resistï¿½ncia (Ohms)
     * Corrente (Amperes)
-    * Potência (Watts)
+    * Potï¿½ncia (Watts)
+
+---------------------------------------------------
+
+Capï¿½tulo 4 - ManutenÃ§Ã£o preventiva e soluÃ§Ã£o de problemas
+
+---------------------------------------------------
+
+### ManutenÃ§Ã£o preventiva
+LocalizaÃ§Ã£o ou ambiente do computador - Ambientes empoeirados, como canteiros de obras, requerem mais atenÃ§Ã£o do que um ambiente de escritï¿½rio.
+Uso do computador - redes de trï¿½fego intenso, como a rede de uma escola, podem exigir varreduras e remoÃ§Ã£o adicionais de softwares mal-intencionados e arquivos indesejï¿½veis.
+	* Reduz possï¿½veis problemas de hardware e software, tempo de inatividade do computador, custos de reparo e o nï¿½mero de falhas no equipamento;
+	* Melhora a proteÃ§Ã£o de dados, a vida ï¿½til e a estabilidade do equipamento e economiza dinheiro.
+
+---------------------------------------------------
+
+#### Poeira
+
+Para se previnir da poeira:
+* Limpar e substituir os filtros de ar regularmente;
+* Usar um pano para limpar o computador externamente;
+* A poeira do lado de fora de um computador pode atravessar as ventoinhas de refrigeraÃ§Ã£o para a parte interna;
+* O pÃ³ acumulado evita o fluxo de ar e reduz o esfriamento dos componentes;
+* Os componentes quentes do computador tÃªm mais probabilidade de quebrar;
+* Remova a poeira da parte interna do computador usando uma combinaÃ§Ã£o de ar comprimido, um aspirador ESD de baixo fluxo de ar e um pequeno pano sem fiapos.
+Mantenha a lata de ar comprimido na vertical para evitar que o fluido vaze nos componentes do computador;
+* Mantenha o ar comprimido em uma distÃ¢ncia segura de dispositivos e componentes sensÃ­veis;
+* Use o pano sem fiapos para remover qualquer poeira deixada no componente.
+
+---------------------------------------------------
+
+Componentes que merecem uma atenÃ§Ã£o a mais em relaÃ§Ã£o Ã  poeira:
+* Dissipador de calor com ventoinha de CPU e Fan;
+* MÃ³dulos de RAM;
+* Parafusos;
+* Placas de expansÃ£o;
+* Dispositivos de energia;
+* Teclado e mouse.
+
+---------------------------------------------------
+
+#### PreocupaÃ§Ãµes ambientais
+InstruÃ§Ãµes a se
