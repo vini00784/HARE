@@ -126,4 +126,5 @@ Redes são sistemas formados por links. As redes de computadores conectam dispos
 * Dispositivos Host:
     * Os dispositivos de rede com os quais as pessoas estão mais familiarizados são chamados de dispositivos finais ou dispositivos host (Figura 1). Eles são chamados de dispositivos finais, pois estão no fim ou na borda de uma rede
 
-![permissões](./imgs-readme.01.PNG)
+![permissões](./imgs-readme/01.PNG)
+![permissões](./linux-imgs/10.PNG)
