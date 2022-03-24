@@ -6,7 +6,7 @@
 
 * É bom ter um extintor de incêndio por perto, mas nunca um extintor de água, pois obviamente vão danificar os componentes.
 
----------------------------------------------------
+---
 
 * Para colocar a fonte de alimentação:
     * I. Abrir a caixa do computador
@@ -30,11 +30,11 @@
     * Pensar em uma placa com 2 slots PCI express;
     * Levar em consideração o processador.
 
----------------------------------------------------
+---
 
 ### Capítulo 3 - Hardware avançado de computador
 
----------------------------------------------------
+---
 
 * CMOS:
     * Todas as placas mãe precisam da BIOS para operar. E a BIOS é um programa armazenado no chip de memória ROM (CMOS) da placa mãe que contém um pequeno programa.
@@ -45,11 +45,11 @@
         * A UEFI define as mesmas configurações que a BIOS tradicional, mas também disponibiliza opções adicionais. Por exemplo, a UEFI pode fornecer uma interface de software habilitada para mouse em vez das telas tradicionais do BIOS.
     * É possível fazer algumas configurações de segurança para a BIOS, como senhas, criptografia e etc.
 
----------------------------------------------------
+---
 
 * Na hora de comprar uma placa mãe e um processador, é preciso ver se a BIOS da placa mãe é compatível com o processador, senão um não reconhece o outro.
 
----------------------------------------------------
+---
 
 * Potência e tensão:
     * Tensão (Volts) - é a medida do trabalho necessária para deslocar uma carga de um local para outro
@@ -57,11 +57,11 @@
     * Corrente (Amperes)
     * Potência (Watts)
 
----------------------------------------------------
+---
 
 ### Capítulo 4 - Manutenção preventiva e solução de problemas
 
----------------------------------------------------
+---
 
 ### Manutenção preventiva
 Localização ou ambiente do computador - Ambientes empoeirados, como canteiros de obras, requerem mais atenção do que um ambiente de escritório.
@@ -69,7 +69,7 @@ Uso do computador - redes de tráfego intenso, como a rede de uma escola, podem 
 	* Reduz possíveis problemas de hardware e software, tempo de inatividade do computador, custos de reparo e o número de falhas no equipamento;
 	* Melhora a proteção de dados, a vida útil e a estabilidade do equipamento e economiza dinheiro.
 
----------------------------------------------------
+---
 
 #### Poeira
 
@@ -84,7 +84,7 @@ Mantenha a lata de ar comprimido na vertical para evitar que o fluido vaze nos c
 * Mantenha o ar comprimido em uma distância segura de dispositivos e componentes sensíveis;
 * Use o pano sem fiapos para remover qualquer poeira deixada no componente.
 
----------------------------------------------------
+---
 
 Componentes que merecem uma atenção a mais em relação à poeira:
 * Dissipador de calor com ventoinha de CPU e Fan;
@@ -94,7 +94,7 @@ Componentes que merecem uma atenção a mais em relação à poeira:
 * Dispositivos de energia;
 * Teclado e mouse.
 
----------------------------------------------------
+---
 
 #### Preocupações ambientais
 Instruções a se seguir para garantir o desempenho operacional do PC:
@@ -103,13 +103,27 @@ Instruções a se seguir para garantir o desempenho operacional do PC:
 * Mantenha o nível de umidade entre 10% e 80%;
 * As recomendações de temperatura e umidade variam de acordo com o fabricante do computador. Pesquise os valores recomendados para computadores usados em condições extremas.
 
----------------------------------------------------
+---
 
 #### Software
 Os softwares devem sempre se manter atualizados, até mesmo por questões de segurança, desempenho e outros aspectos.
 
----------------------------------------------------
+---
 
-### Solução de problemas
+#### Solução de problemas
 * `` Backup ``:
     * O backup de dados é uma cópia dos dados do disco rígido de um computador salva em outro dispositivo de armazenamento ou armazenamento em nuvem. O armazenamento em nuvem é um armazenamento on-line acessado pela Internet. Em uma empresa, os backups podem ser realizados de forma diária, semanal ou mensal.
+
+---
+
+### Capítulo 5 - Conceitos de Redes
+
+---
+
+#### Ícones de rede
+Redes são sistemas formados por links. As redes de computadores conectam dispositivos e usuários entre si. Uma variedade de ícones de rede é usada para representar diferentes partes de uma rede de computadores.
+
+* Dispositivos Host:
+    * Os dispositivos de rede com os quais as pessoas estão mais familiarizados são chamados de dispositivos finais ou dispositivos host (Figura 1). Eles são chamados de dispositivos finais, pois estão no fim ou na borda de uma rede
+
+![permissões](./imgs-readme.01.PNG)
