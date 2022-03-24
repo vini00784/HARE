@@ -126,5 +126,14 @@ Redes são sistemas formados por links. As redes de computadores conectam dispos
 * Dispositivos Host:
     * Os dispositivos de rede com os quais as pessoas estão mais familiarizados são chamados de dispositivos finais ou dispositivos host (Figura 1). Eles são chamados de dispositivos finais, pois estão no fim ou na borda de uma rede
 
-![permissões](./imgs-readme/01.PNG)
-![permissões](./linux-imgs/10.PNG)
+![ícones de dispositivos host](./imgs-readme/01.PNG)
+
+* Dispositivos Intermediários:
+    * Esses dispositivos intermediários asseguram que os dados fluam de um dispositivo host para outro. Os dispositivos intermediários mais comuns são mostrados na Figura:
+
+![ícones de dispositivos intermediários](./imgs-readme/02.PNG)
+
+* Meio físico de rede:
+    * A comunicação por uma rede é transmitida por um meio. Ele fornece o canal sobre o qual a mensagem viaja da fonte ao destino. O plural de meio é mídia. Os ícones na Figura 3 representam diferentes tipos de mídia de rede. 
+
+![ícones de mídia de rede](./imgs-readme/03.PNG)
